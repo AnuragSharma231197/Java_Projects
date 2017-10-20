@@ -27,6 +27,10 @@ public class Calculator1{
 			System.out.println(sub);
 		}
 		else{
+			System.out.println("Enter First number:");
+			num1=scan.nextInt();
+			System.out.println("Enter Second number:");
+			num2=scan.nextInt();
 			if(num1>num2){
 				sub=num1-num2;
 				System.out.println(sub);
