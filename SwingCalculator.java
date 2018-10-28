@@ -281,11 +281,7 @@ public class Calculator implements ActionListener{
 			if(e.getActionCommand().equals("CE")){
 				result.setText("");
 			}
-			/*if(e.getActionCommand().equals("Cl")){
-				StringBuilder sb=new StringBuilder(a);
-				String str=sb.deleteCharAt(a.length()-1).toString();
-				input.setText(str);
-			}*/
+			
 		
 		}
 public static void main(String []args){
