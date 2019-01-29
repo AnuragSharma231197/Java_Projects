@@ -1,0 +1,7 @@
+1.#606461
+2.#969696
+3.#B7B7B7
+4.Background-#EDEDED
+
+
+@media only screen and (max-width: 600px) {
